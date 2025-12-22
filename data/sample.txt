@@ -1,0 +1,63 @@
+Employees must wear protective equipment including helmets and safety shoes.
+Routine inspections must be performed before operating machinery.
+Any detected anomaly should be reported immediately to the safety officer.
+
+Ilakiya S 
+Backend Developer 
+ilakiya.s.aiml@gmail.com | (+91)9597598327 | Coimbatore,TamilNadu,India 
+LinkedIn 
+Summary 
+Backend Developer skilled in Java, Spring Boot, REST APIs, and scalable microservices. Experienced in integrating 
+AI/ML pipelines, optimizing database performance, building real-time event systems, and deploying production-ready 
+backend services. 
+Skills 
+● Languages: Java, Python, SQL 
+● Backend: Spring Boot, Microservices, REST API, RabbitMQ. 
+● Databases: MySQL, PostgreSQL, MongoDB, Redis 
+● Tools: Postman, Swagger, Git/GitHub, STS, DBeaver, IntelliJ, Maven/Gradle, Docker 
+Experience 
+Mirador AI Technologies 
+AI/Backend Developer 
+Real-Time AI Video Analytics Platform 
+Chennai, India 
+Mar 2025 – Present 
+● Developed REST APIs for analytics modules (Intrusion, PPE, Slip/Fall, Traffic) using Java + Spring Boot. 
+● Integrated YOLOv5 detection outputs into backend pipelines, enabling real-time processing with MySQL. 
+● Implemented event-driven alerting & logging, reducing alert latency by 30%. 
+ANPR (Automated Number Plate Recognition) System 
+● Integrated OCR + object detection outputs into backend microservice pipelines using Spring Boot. 
+● Built APIs for number plate extraction, validation, and event storage with PostgreSQL. 
+● Optimized query performance and reduced end-to-end processing latency by ~40%, enabling real-time vehicle event 
+handling. 
+Nurac Solution 
+Research Intern 
+Coimbatore, India 
+Oct 2024 – Feb 2025 
+● Intent Classification & Speech Analytics Pipeline - Designed and automated preprocessing pipelines for text and 
+audio data (cleaning, normalization, feature preparation), reducing manual effort by ~15% and improving model- 
+ready data quality. 
+● Supported end-to-end integration of NLP and voice analysis pipelines into application services, enabling smooth 
+model inference and data flow. 
+Wimera Systems Private Limited (Remote) 
+Software Intern 
+● IoT Predictive Maintenance System - Structured spindle sensor data into MongoDB collections. 
+● Improved ML prediction accuracy by 20% and query performance by 35%. 
+Projects 
+Bengaluru, India 
+Aug 2022 – Dec 2022 
+Face Mask Detection System for Public Safety 
+● Developed a real-time CNN-based face mask detection system achieving ~99% accuracy. 
+● Built a REST endpoint for live detection using Python, OpenCV, TensorFlow. 
+WhatsApp Chat Insights 
+● Built an NLP pipeline for sentiment analysis, trend extraction, and topic modeling on 10K+ messages. 
+● Improved sentiment classification reliability by ~25% using enhanced preprocessing techniques. 
+Spindle Health Monitoring System 
+● ML-based predictive maintenance using structured MongoDB storage and failure prediction models. 
+Education 
+Integrated M.Sc in Artificial Intelligence & Machine Learning (CGPA: 7.98  
+Coimbatore Institute of Technology 
+Publication 
+Jul 2019 - May 2024 
+Coimbatore, Tamil Nadu 
+"Color Detection using Machine Learning Unsupervised Algorithm" 
+ICCSIT - August 2022 
